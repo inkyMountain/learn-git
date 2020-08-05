@@ -1,3 +1,4 @@
 first commit
 commit in new-branch
 commit2 in new-branch
+commit3 in new-branch
